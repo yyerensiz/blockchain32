@@ -1,5 +1,6 @@
-to run program type "npm start"
-solidity contract
+to run program type "npm start",
+
+this is solidity contract:
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
